@@ -1,0 +1,58 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "Danmark",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "carl frederik aagaard"
+                }
+            ]
+        },
+        {
+            "name": "Espa\u00f1a",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "juan de la abadia"
+                }
+            ]
+        },
+        {
+            "name": "France m\u00e9tropolitaine, France",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "massot abaquesne"
+                }
+            ]
+        },
+        {
+            "name": "Italia",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "niccol? dell' abbate"
+                },
+                {
+                    "value": 1,
+                    "name": "giuseppe abbati"
+                },
+                {
+                    "value": 1,
+                    "name": "guido ubaldo abbatini"
+                }
+            ]
+        },
+        {
+            "name": "Nederland",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "pieter van abeele"
+                }
+            ]
+        }
+    ]
+}
