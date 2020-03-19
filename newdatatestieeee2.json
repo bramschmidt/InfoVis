@@ -1,0 +1,510 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "other",
+            "children": [
+                {
+                    "value": 66,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 235,
+                    "name": "Italia"
+                },
+                {
+                    "value": 62,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 1,
+                    "name": "Danmark"
+                },
+                {
+                    "value": 8,
+                    "name": "Russian, Municipio Ben\u00edtez, Sucre, Venezuela"
+                },
+                {
+                    "value": 416,
+                    "name": "Italia"
+                },
+                {
+                    "value": 56,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 11,
+                    "name": "Schweiz/Suisse/Svizzera/Svizra"
+                },
+                {
+                    "value": 9,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 124,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 2,
+                    "name": "United States of America"
+                },
+                {
+                    "value": 81,
+                    "name": "flemish"
+                },
+                {
+                    "value": 38,
+                    "name": "Great Britain, Richmondshire, North Yorkshire, Yorkshire and the Humber, England, UK"
+                },
+                {
+                    "value": 42,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 45,
+                    "name": "italian"
+                },
+                {
+                    "value": 20,
+                    "name": "french"
+                },
+                {
+                    "value": 4,
+                    "name": "danish"
+                },
+                {
+                    "value": 4,
+                    "name": "dutch"
+                },
+                {
+                    "value": 20,
+                    "name": "Unknown, The Bahamas"
+                },
+                {
+                    "value": 35,
+                    "name": "Italia"
+                },
+                {
+                    "value": 21,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 1,
+                    "name": "\u00d6sterreich"
+                },
+                {
+                    "value": 34,
+                    "name": "flemish"
+                },
+                {
+                    "value": 2,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 6,
+                    "name": "italian"
+                },
+                {
+                    "value": 1,
+                    "name": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                }
+            ]
+        },
+        {
+            "name": "painting",
+            "children": [
+                {
+                    "value": 14,
+                    "name": "Danmark"
+                },
+                {
+                    "value": 100,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 1967,
+                    "name": "Italia"
+                },
+                {
+                    "value": 151,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 396,
+                    "name": "flemish"
+                },
+                {
+                    "value": 1971,
+                    "name": "modern"
+                },
+                {
+                    "value": 355,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 391,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 13,
+                    "name": "Schweiz/Suisse/Svizzera/Svizra"
+                },
+                {
+                    "value": 15,
+                    "name": "Russian, Municipio Ben\u00edtez, Sucre, Venezuela"
+                },
+                {
+                    "value": 2,
+                    "name": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                },
+                {
+                    "value": 5,
+                    "name": "Other, Corozal, Corozal District, Corozal, 0000, Belize"
+                },
+                {
+                    "value": 234,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 14,
+                    "name": "United States of America"
+                },
+                {
+                    "value": 40,
+                    "name": "Great Britain, Richmondshire, North Yorkshire, Yorkshire and the Humber, England, UK"
+                },
+                {
+                    "value": 18,
+                    "name": "\u00d6sterreich"
+                },
+                {
+                    "value": 5,
+                    "name": "Scotland, UK"
+                },
+                {
+                    "value": 1,
+                    "name": "Bohemian, Plaquemines Parish, Louisiana, 70083, United States of America"
+                },
+                {
+                    "value": 2,
+                    "name": "Irish, Nahant, Lawrence County, South Dakota, 57778, United States of America"
+                },
+                {
+                    "value": 4,
+                    "name": "Belgi\u00eb / Belgique / Belgien"
+                },
+                {
+                    "value": 1,
+                    "name": "Portugese Fort, \u0643\u0645\u0631\u0627\u0646, \u0627\u0644\u062d\u062f\u064a\u062f\u0629, \u0627\u0644\u064a\u0645\u0646"
+                },
+                {
+                    "value": 2,
+                    "name": "Catalan, Ferrocarril, Perimetro Urbano Pereira, Pereira, Risaralda, Colombia"
+                },
+                {
+                    "value": 25,
+                    "name": "Magyarorsz\u00e1g"
+                },
+                {
+                    "value": 1,
+                    "name": "Sverige"
+                },
+                {
+                    "value": 388,
+                    "name": "italian"
+                },
+                {
+                    "value": 36,
+                    "name": "spanish"
+                },
+                {
+                    "value": 15,
+                    "name": "french"
+                },
+                {
+                    "value": 9,
+                    "name": "german"
+                },
+                {
+                    "value": 24,
+                    "name": "american"
+                },
+                {
+                    "value": 2,
+                    "name": "dutch"
+                }
+            ]
+        },
+        {
+            "name": "sculpture",
+            "children": [
+                {
+                    "value": 400,
+                    "name": "Italia"
+                },
+                {
+                    "value": 5,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 106,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 15,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 6,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 6,
+                    "name": "flemish"
+                },
+                {
+                    "value": 2,
+                    "name": "Great Britain, Richmondshire, North Yorkshire, Yorkshire and the Humber, England, UK"
+                },
+                {
+                    "value": 3,
+                    "name": "\u00d6sterreich"
+                },
+                {
+                    "value": 3,
+                    "name": "Danmark"
+                },
+                {
+                    "value": 11,
+                    "name": "italian"
+                },
+                {
+                    "value": 34,
+                    "name": "french"
+                }
+            ]
+        },
+        {
+            "name": "architecture",
+            "children": [
+                {
+                    "value": 86,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 12,
+                    "name": "Scotland, UK"
+                },
+                {
+                    "value": 4,
+                    "name": "Sverige"
+                },
+                {
+                    "value": 109,
+                    "name": "Unknown, The Bahamas"
+                },
+                {
+                    "value": 333,
+                    "name": "Italia"
+                },
+                {
+                    "value": 32,
+                    "name": "Portugese Fort, \u0643\u0645\u0631\u0627\u0646, \u0627\u0644\u062d\u062f\u064a\u062f\u0629, \u0627\u0644\u064a\u0645\u0646"
+                },
+                {
+                    "value": 257,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 19,
+                    "name": "\u00d6sterreich"
+                },
+                {
+                    "value": 4,
+                    "name": "Bohemian, Plaquemines Parish, Louisiana, 70083, United States of America"
+                },
+                {
+                    "value": 20,
+                    "name": "Catalan, Ferrocarril, Perimetro Urbano Pereira, Pereira, Risaralda, Colombia"
+                },
+                {
+                    "value": 7,
+                    "name": "Danmark"
+                },
+                {
+                    "value": 6,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 96,
+                    "name": "Great Britain, Richmondshire, North Yorkshire, Yorkshire and the Humber, England, UK"
+                },
+                {
+                    "value": 16,
+                    "name": "flemish"
+                },
+                {
+                    "value": 191,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 2,
+                    "name": "Magyarorsz\u00e1g"
+                },
+                {
+                    "value": 1,
+                    "name": "Irish, Nahant, Lawrence County, South Dakota, 57778, United States of America"
+                },
+                {
+                    "value": 1,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 2,
+                    "name": "Other, Corozal, Corozal District, Corozal, 0000, Belize"
+                },
+                {
+                    "value": 15,
+                    "name": "Schweiz/Suisse/Svizzera/Svizra"
+                },
+                {
+                    "value": 1,
+                    "name": "Russian, Municipio Ben\u00edtez, Sucre, Venezuela"
+                },
+                {
+                    "value": 1,
+                    "name": "Belgi\u00eb / Belgique / Belgien"
+                },
+                {
+                    "value": 2,
+                    "name": "United States of America"
+                },
+                {
+                    "value": 3,
+                    "name": "italian"
+                },
+                {
+                    "value": 1,
+                    "name": "english"
+                }
+            ]
+        },
+        {
+            "name": "stained-glass",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 2,
+                    "name": "Italia"
+                }
+            ]
+        },
+        {
+            "name": "manuscript illumination",
+            "children": [
+                {
+                    "value": 2,
+                    "name": "Unknown, The Bahamas"
+                }
+            ]
+        },
+        {
+            "name": "metalwork",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 3,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 3,
+                    "name": "Italia"
+                },
+                {
+                    "value": 2,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 1,
+                    "name": "Schweiz/Suisse/Svizzera/Svizra"
+                }
+            ]
+        },
+        {
+            "name": "mosaic",
+            "children": [
+                {
+                    "value": 3,
+                    "name": "Italia"
+                },
+                {
+                    "value": 1,
+                    "name": "italian"
+                }
+            ]
+        },
+        {
+            "name": "furniture",
+            "children": [
+                {
+                    "value": 2,
+                    "name": "Italia"
+                },
+                {
+                    "value": 9,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 2,
+                    "name": "french"
+                }
+            ]
+        },
+        {
+            "name": "print",
+            "children": [
+                {
+                    "value": 8,
+                    "name": "Unknown, The Bahamas"
+                }
+            ]
+        },
+        {
+            "name": "tapestry",
+            "children": [
+                {
+                    "value": 3,
+                    "name": "Italia"
+                },
+                {
+                    "value": 3,
+                    "name": "France m\u00e9tropolitaine, France"
+                }
+            ]
+        },
+        {
+            "name": "glassware",
+            "children": [
+                {
+                    "value": 6,
+                    "name": "Italia"
+                }
+            ]
+        },
+        {
+            "name": "others",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Italia"
+                }
+            ]
+        }
+    ]
+}
