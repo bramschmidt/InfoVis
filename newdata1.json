@@ -1,0 +1,132 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "painting",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Danmark"
+                },
+                {
+                    "value": 1,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 1,
+                    "name": "Italia"
+                },
+                {
+                    "value": 1,
+                    "name": "Deutschland, Europe"
+                },
+                {
+                    "value": 1,
+                    "name": "flemish"
+                },
+                {
+                    "value": 1,
+                    "name": "modern"
+                },
+                {
+                    "value": 1,
+                    "name": "Schweiz/Suisse/Svizzera/Svizra"
+                },
+                {
+                    "value": 1,
+                    "name": "Russian, Municipio Ben\u00edtez, Sucre, Venezuela"
+                },
+                {
+                    "value": 1,
+                    "name": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                },
+                {
+                    "value": 1,
+                    "name": "Other, Corozal, Corozal District, Corozal, 0000, Belize"
+                },
+                {
+                    "value": 1,
+                    "name": "United States of America"
+                },
+                {
+                    "value": 1,
+                    "name": "Great Britain, Richmondshire, North Yorkshire, Yorkshire and the Humber, England, UK"
+                },
+                {
+                    "value": 1,
+                    "name": "\u00d6sterreich"
+                }
+            ]
+        },
+        {
+            "name": "ceramics",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "France m\u00e9tropolitaine, France"
+                }
+            ]
+        },
+        {
+            "name": "sculpture",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Italia"
+                },
+                {
+                    "value": 1,
+                    "name": "Nederland"
+                }
+            ]
+        },
+        {
+            "name": "architecture",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Espa\u00f1a"
+                },
+                {
+                    "value": 1,
+                    "name": "Scotland, UK"
+                },
+                {
+                    "value": 1,
+                    "name": "Sverige"
+                },
+                {
+                    "value": 1,
+                    "name": "Unknown, The Bahamas"
+                }
+            ]
+        },
+        {
+            "name": "graphics",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "France m\u00e9tropolitaine, France"
+                }
+            ]
+        },
+        {
+            "name": "stained-glass",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "netherlandish"
+                }
+            ]
+        },
+        {
+            "name": "stucco",
+            "children": [
+                {
+                    "value": 1,
+                    "name": "Unknown, The Bahamas"
+                }
+            ]
+        }
+    ]
+}
