@@ -1,0 +1,1050 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "other",
+            "children": [
+                {
+                    "value": 698,
+                    "name": "greek"
+                },
+                {
+                    "value": 582,
+                    "name": "german"
+                },
+                {
+                    "value": 1314,
+                    "name": "italian"
+                },
+                {
+                    "value": 2082,
+                    "name": "american"
+                },
+                {
+                    "value": 2170,
+                    "name": "french"
+                },
+                {
+                    "value": 803,
+                    "name": "british"
+                },
+                {
+                    "value": 85,
+                    "name": "dutch"
+                },
+                {
+                    "value": 110,
+                    "name": "austrian"
+                },
+                {
+                    "value": 270,
+                    "name": "chinese"
+                },
+                {
+                    "value": 51,
+                    "name": "irish"
+                },
+                {
+                    "value": 10,
+                    "name": "scottish"
+                },
+                {
+                    "value": 846,
+                    "name": "japanese"
+                },
+                {
+                    "value": 170,
+                    "name": "english"
+                },
+                {
+                    "value": 81,
+                    "name": "spanish"
+                },
+                {
+                    "value": 64,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 304,
+                    "name": "flemish"
+                },
+                {
+                    "value": 22,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 52,
+                    "name": "Italia"
+                },
+                {
+                    "value": 1,
+                    "name": "leipzig"
+                },
+                {
+                    "value": 1,
+                    "name": "new york"
+                }
+            ]
+        },
+        {
+            "name": "metalwork",
+            "children": [
+                {
+                    "value": 7,
+                    "name": "chinese"
+                },
+                {
+                    "value": 340,
+                    "name": "german"
+                },
+                {
+                    "value": 724,
+                    "name": "french"
+                },
+                {
+                    "value": 22,
+                    "name": "spanish"
+                },
+                {
+                    "value": 59,
+                    "name": "irish"
+                },
+                {
+                    "value": 129,
+                    "name": "italian"
+                },
+                {
+                    "value": 5,
+                    "name": "english"
+                },
+                {
+                    "value": 19,
+                    "name": "flemish"
+                },
+                {
+                    "value": 3,
+                    "name": "Italia"
+                },
+                {
+                    "value": 24,
+                    "name": "austrian"
+                },
+                {
+                    "value": 14,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 1034,
+                    "name": "british"
+                },
+                {
+                    "value": 69,
+                    "name": "dutch"
+                },
+                {
+                    "value": 7,
+                    "name": "japanese"
+                },
+                {
+                    "value": 4,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 1265,
+                    "name": "american"
+                },
+                {
+                    "value": 15,
+                    "name": "scottish"
+                }
+            ]
+        },
+        {
+            "name": "print",
+            "children": [
+                {
+                    "value": 4030,
+                    "name": "japanese"
+                },
+                {
+                    "value": 41,
+                    "name": "chinese"
+                },
+                {
+                    "value": 3,
+                    "name": "german"
+                },
+                {
+                    "value": 1,
+                    "name": "italian"
+                },
+                {
+                    "value": 9,
+                    "name": "british"
+                },
+                {
+                    "value": 4,
+                    "name": "french"
+                },
+                {
+                    "value": 2,
+                    "name": "american"
+                }
+            ]
+        },
+        {
+            "name": "painting",
+            "children": [
+                {
+                    "value": 915,
+                    "name": "chinese"
+                },
+                {
+                    "value": 821,
+                    "name": "japanese"
+                },
+                {
+                    "value": 3826,
+                    "name": "french"
+                },
+                {
+                    "value": 10890,
+                    "name": "italian"
+                },
+                {
+                    "value": 1627,
+                    "name": "german"
+                },
+                {
+                    "value": 45,
+                    "name": "greek"
+                },
+                {
+                    "value": 1102,
+                    "name": "spanish"
+                },
+                {
+                    "value": 556,
+                    "name": "english"
+                },
+                {
+                    "value": 282,
+                    "name": "austrian"
+                },
+                {
+                    "value": 2113,
+                    "name": "Italia"
+                },
+                {
+                    "value": 512,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 3232,
+                    "name": "flemish"
+                },
+                {
+                    "value": 276,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 3870,
+                    "name": "dutch"
+                },
+                {
+                    "value": 423,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 9,
+                    "name": "british"
+                },
+                {
+                    "value": 165,
+                    "name": "american"
+                },
+                {
+                    "value": 67,
+                    "name": "scottish"
+                },
+                {
+                    "value": 29,
+                    "name": "irish"
+                },
+                {
+                    "value": 184190,
+                    "name": "modern"
+                }
+            ]
+        },
+        {
+            "name": "sculpture",
+            "children": [
+                {
+                    "value": 2271,
+                    "name": "italian"
+                },
+                {
+                    "value": 478,
+                    "name": "german"
+                },
+                {
+                    "value": 1,
+                    "name": "irish"
+                },
+                {
+                    "value": 104,
+                    "name": "english"
+                },
+                {
+                    "value": 1435,
+                    "name": "french"
+                },
+                {
+                    "value": 2,
+                    "name": "greek"
+                },
+                {
+                    "value": 231,
+                    "name": "spanish"
+                },
+                {
+                    "value": 168,
+                    "name": "flemish"
+                },
+                {
+                    "value": 56,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 432,
+                    "name": "Italia"
+                },
+                {
+                    "value": 62,
+                    "name": "british"
+                },
+                {
+                    "value": 121,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 73,
+                    "name": "austrian"
+                },
+                {
+                    "value": 1,
+                    "name": "chinese"
+                },
+                {
+                    "value": 46,
+                    "name": "american"
+                },
+                {
+                    "value": 45,
+                    "name": "dutch"
+                },
+                {
+                    "value": 5,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 2,
+                    "name": "japanese"
+                },
+                {
+                    "value": 9,
+                    "name": "scottish"
+                }
+            ]
+        },
+        {
+            "name": "architecture",
+            "children": [
+                {
+                    "value": 180,
+                    "name": "french"
+                },
+                {
+                    "value": 303,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 353,
+                    "name": "Italia"
+                },
+                {
+                    "value": 607,
+                    "name": "italian"
+                },
+                {
+                    "value": 68,
+                    "name": "spanish"
+                },
+                {
+                    "value": 106,
+                    "name": "english"
+                },
+                {
+                    "value": 219,
+                    "name": "german"
+                },
+                {
+                    "value": 36,
+                    "name": "flemish"
+                },
+                {
+                    "value": 4,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 12,
+                    "name": "dutch"
+                },
+                {
+                    "value": 7,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 59,
+                    "name": "austrian"
+                },
+                {
+                    "value": 11,
+                    "name": "scottish"
+                },
+                {
+                    "value": 63,
+                    "name": "american"
+                }
+            ]
+        },
+        {
+            "name": "ceramics",
+            "children": [
+                {
+                    "value": 54,
+                    "name": "chinese"
+                },
+                {
+                    "value": 327,
+                    "name": "italian"
+                },
+                {
+                    "value": 156,
+                    "name": "japanese"
+                },
+                {
+                    "value": 4,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 4,
+                    "name": "Italia"
+                },
+                {
+                    "value": 1190,
+                    "name": "german"
+                },
+                {
+                    "value": 975,
+                    "name": "french"
+                },
+                {
+                    "value": 3,
+                    "name": "flemish"
+                },
+                {
+                    "value": 66,
+                    "name": "austrian"
+                },
+                {
+                    "value": 542,
+                    "name": "american"
+                },
+                {
+                    "value": 104,
+                    "name": "dutch"
+                },
+                {
+                    "value": 1172,
+                    "name": "british"
+                },
+                {
+                    "value": 1,
+                    "name": "irish"
+                },
+                {
+                    "value": 27,
+                    "name": "spanish"
+                },
+                {
+                    "value": 2,
+                    "name": "scottish"
+                },
+                {
+                    "value": 3,
+                    "name": "english"
+                }
+            ]
+        },
+        {
+            "name": "graphics",
+            "children": [
+                {
+                    "value": 510,
+                    "name": "french"
+                },
+                {
+                    "value": 994,
+                    "name": "italian"
+                },
+                {
+                    "value": 90,
+                    "name": "english"
+                },
+                {
+                    "value": 734,
+                    "name": "german"
+                },
+                {
+                    "value": 262,
+                    "name": "flemish"
+                },
+                {
+                    "value": 201,
+                    "name": "Italia"
+                },
+                {
+                    "value": 133,
+                    "name": "netherlandish"
+                },
+                {
+                    "value": 592,
+                    "name": "dutch"
+                },
+                {
+                    "value": 48,
+                    "name": "France m\u00e9tropolitaine, France"
+                },
+                {
+                    "value": 69,
+                    "name": "Nederland"
+                },
+                {
+                    "value": 70,
+                    "name": "spanish"
+                },
+                {
+                    "value": 18,
+                    "name": "austrian"
+                },
+                {
+                    "value": 6,
+                    "name": "american"
+                },
+                {
+                    "value": 4,
+                    "name": "scottish"
+                }
+            ]
+        },
+        {
+            "name": "photo",
+            "children": [
+                {
+                    "value": 1335,
+                    "name": "french"
+                },
+                {
+                    "value": 25301,
+                    "name": "british"
+                },
+                {
+                    "value": 104,
+                    "name": "italian"
+                },
+                {
+                    "value": 356038,
+                    "name": "london"
+                },
+                {
+                    "value": 665,
+                    "name": "cambridge"
+                },
+                {
+                    "value": 1447,
+                    "name": "enk"
+                },
+                {
+                    "value": 978,
+                    "name": "scottish"
+                },
+                {
+                    "value": 444,
+                    "name": "irish"
+                },
+                {
+                    "value": 2591,
+                    "name": "dublin"
+                },
+                {
+                    "value": 1004,
+                    "name": "oxford"
+                },
+                {
+                    "value": 649,
+                    "name": "napoli"
+                },
+                {
+                    "value": 991,
+                    "name": "london]"
+                },
+                {
+                    "value": 714,
+                    "name": "geneve"
+                },
+                {
+                    "value": 919,
+                    "name": "aberdeen"
+                },
+                {
+                    "value": 1006,
+                    "name": "birmingham"
+                },
+                {
+                    "value": 3045,
+                    "name": "manchester"
+                },
+                {
+                    "value": 1024,
+                    "name": "firenze"
+                },
+                {
+                    "value": 72,
+                    "name": "german"
+                },
+                {
+                    "value": 77918,
+                    "name": "paris"
+                },
+                {
+                    "value": 12807,
+                    "name": "edinburgh"
+                },
+                {
+                    "value": 1337,
+                    "name": "bristol"
+                },
+                {
+                    "value": 17752,
+                    "name": "philadelphia"
+                },
+                {
+                    "value": 291,
+                    "name": "american"
+                },
+                {
+                    "value": 740,
+                    "name": "norwich"
+                },
+                {
+                    "value": 35838,
+                    "name": "new york"
+                },
+                {
+                    "value": 702,
+                    "name": "winchester"
+                },
+                {
+                    "value": 1657,
+                    "name": "kiel"
+                },
+                {
+                    "value": 866,
+                    "name": "hull"
+                },
+                {
+                    "value": 2067,
+                    "name": "munchen"
+                },
+                {
+                    "value": 8032,
+                    "name": "berlin"
+                },
+                {
+                    "value": 8594,
+                    "name": "chicago"
+                },
+                {
+                    "value": 745,
+                    "name": "koln"
+                },
+                {
+                    "value": 14445,
+                    "name": "leipzig"
+                },
+                {
+                    "value": 7638,
+                    "name": "wien"
+                },
+                {
+                    "value": 4718,
+                    "name": "glasgow"
+                },
+                {
+                    "value": 2721,
+                    "name": "leeds"
+                },
+                {
+                    "value": 868,
+                    "name": "roma"
+                },
+                {
+                    "value": 817,
+                    "name": "liverpool"
+                },
+                {
+                    "value": 12028,
+                    "name": "milano"
+                },
+                {
+                    "value": 860,
+                    "name": "exeter"
+                },
+                {
+                    "value": 946,
+                    "name": "haarlem"
+                },
+                {
+                    "value": 4115,
+                    "name": "boston [mass.]"
+                },
+                {
+                    "value": 995,
+                    "name": "lausanne"
+                },
+                {
+                    "value": 597,
+                    "name": "trieste"
+                },
+                {
+                    "value": 970,
+                    "name": "hamburg"
+                },
+                {
+                    "value": 4846,
+                    "name": "amsterdam"
+                },
+                {
+                    "value": 513,
+                    "name": "frankfurt am main"
+                },
+                {
+                    "value": 1796,
+                    "name": "zurich"
+                },
+                {
+                    "value": 811,
+                    "name": "darmstadt"
+                },
+                {
+                    "value": 554,
+                    "name": "newcastle"
+                },
+                {
+                    "value": 1168,
+                    "name": "london, edinburgh [printed]"
+                },
+                {
+                    "value": 767,
+                    "name": "albany"
+                },
+                {
+                    "value": 5667,
+                    "name": "boston"
+                },
+                {
+                    "value": 543,
+                    "name": "newcastle-upon-tyne"
+                },
+                {
+                    "value": 710,
+                    "name": "calcutta"
+                },
+                {
+                    "value": 7236,
+                    "name": "stockholm"
+                },
+                {
+                    "value": 1065,
+                    "name": "new-york"
+                },
+                {
+                    "value": 597,
+                    "name": "paisley"
+                },
+                {
+                    "value": 3387,
+                    "name": "lyon"
+                },
+                {
+                    "value": 669,
+                    "name": "bradford"
+                },
+                {
+                    "value": 2949,
+                    "name": "madrid"
+                },
+                {
+                    "value": 1120,
+                    "name": "hartford"
+                },
+                {
+                    "value": 1158,
+                    "name": "mexico"
+                },
+                {
+                    "value": 1940,
+                    "name": "lisboa"
+                },
+                {
+                    "value": 1471,
+                    "name": "boston, mass"
+                },
+                {
+                    "value": 547,
+                    "name": "antwerpen"
+                },
+                {
+                    "value": 6685,
+                    "name": "bruxelles"
+                },
+                {
+                    "value": 1213,
+                    "name": "rouen"
+                },
+                {
+                    "value": 1684,
+                    "name": "cincinnati"
+                },
+                {
+                    "value": 810,
+                    "name": "xxu"
+                },
+                {
+                    "value": 568,
+                    "name": "gotha"
+                },
+                {
+                    "value": 1275,
+                    "name": "leiden"
+                },
+                {
+                    "value": 2926,
+                    "name": ".-"
+                },
+                {
+                    "value": 4140,
+                    "name": "stuttgart"
+                },
+                {
+                    "value": 646,
+                    "name": "lille"
+                },
+                {
+                    "value": 664,
+                    "name": "grenoble"
+                },
+                {
+                    "value": 1349,
+                    "name": "washington"
+                },
+                {
+                    "value": 581,
+                    "name": "boston, [mass.]"
+                },
+                {
+                    "value": 3041,
+                    "name": "barcelona"
+                },
+                {
+                    "value": 3548,
+                    "name": "kjbenhavn"
+                },
+                {
+                    "value": 848,
+                    "name": "prag"
+                },
+                {
+                    "value": 756,
+                    "name": "detroit"
+                },
+                {
+                    "value": 617,
+                    "name": "braunschweig"
+                },
+                {
+                    "value": 617,
+                    "name": "concord"
+                },
+                {
+                    "value": 1843,
+                    "name": "tours"
+                },
+                {
+                    "value": 663,
+                    "name": "new haven"
+                },
+                {
+                    "value": 1630,
+                    "name": "london & new york"
+                },
+                {
+                    "value": 588,
+                    "name": "christiania"
+                },
+                {
+                    "value": 1234,
+                    "name": "new york & london"
+                },
+                {
+                    "value": 944,
+                    "name": "edinburgh & london"
+                },
+                {
+                    "value": 3480,
+                    "name": "toronto"
+                },
+                {
+                    "value": 552,
+                    "name": "st. louis"
+                },
+                {
+                    "value": 589,
+                    "name": "krakow"
+                },
+                {
+                    "value": 558,
+                    "name": "edinburgh and london"
+                },
+                {
+                    "value": 840,
+                    "name": "buenos aires"
+                },
+                {
+                    "value": 971,
+                    "name": "v praze"
+                },
+                {
+                    "value": 660,
+                    "name": "new york]"
+                },
+                {
+                    "value": 663,
+                    "name": "norwich, conn"
+                },
+                {
+                    "value": 1045,
+                    "name": "melbourne"
+                },
+                {
+                    "value": 596,
+                    "name": "louvain"
+                },
+                {
+                    "value": 1101,
+                    "name": "san francisco"
+                },
+                {
+                    "value": 1832,
+                    "name": "hartford, conn"
+                },
+                {
+                    "value": 1703,
+                    "name": "london, guildford [printed]"
+                },
+                {
+                    "value": 559,
+                    "name": "montreal"
+                },
+                {
+                    "value": 564,
+                    "name": "clermont-ferrand"
+                },
+                {
+                    "value": 1477,
+                    "name": "london; edinburgh [printed]"
+                },
+                {
+                    "value": 1179,
+                    "name": "strassburg"
+                },
+                {
+                    "value": 1896,
+                    "name": "kbenhavn"
+                },
+                {
+                    "value": 1135,
+                    "name": "london & edinburgh"
+                },
+                {
+                    "value": 1091,
+                    "name": "london, glasgow [printed]"
+                },
+                {
+                    "value": 502,
+                    "name": "chateauroux"
+                },
+                {
+                    "value": 10219,
+                    "name": "budapest"
+                },
+                {
+                    "value": 1780,
+                    "name": "kristiania"
+                },
+                {
+                    "value": 847,
+                    "name": "st. louis, mo"
+                },
+                {
+                    "value": 2221,
+                    "name": "london; guildford [printed]"
+                },
+                {
+                    "value": 778,
+                    "name": "boston [mass.]; cambridge [mass., printed]"
+                },
+                {
+                    "value": 830,
+                    "name": "boston [mass"
+                },
+                {
+                    "value": 1608,
+                    "name": "4 vol. the century co. new york, 1887, 8"
+                },
+                {
+                    "value": 582,
+                    "name": "london; new york [printed]"
+                },
+                {
+                    "value": 546,
+                    "name": "gottingen]"
+                },
+                {
+                    "value": 779,
+                    "name": "boston, u.s.a"
+                },
+                {
+                    "value": 723,
+                    "name": "london; printed in america"
+                },
+                {
+                    "value": 596,
+                    "name": "roma, napoli, turin [printed]"
+                }
+            ]
+        }
+    ]
+}
